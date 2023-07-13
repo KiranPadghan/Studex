@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/white_blue_corner_bg" android:state_pressed="true" /> <!-- pressed -->
+    <item android:drawable="@drawable/white_blue_corner_bg" android:state_focused="true" /> <!-- focused -->
+    <item android:drawable="@drawable/grey_et_bg" /> <!-- default -->
+</selector>
